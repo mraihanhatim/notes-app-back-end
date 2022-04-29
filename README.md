@@ -1,5 +1,5 @@
-# Dicoding Academy - Membuat Aplikasi Back-End Pemula
-## notes-app-back-end
+# Dicoding Academy - Membuat Aplikasi Back-End
+## NotesApp-BackEnd
 
 - npm install
 - npm run start 
